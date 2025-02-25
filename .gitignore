@@ -1,0 +1,17 @@
+# 忽略 node_modules 資料夾（如果使用 npm/yarn）
+node_modules/
+
+# 忽略編譯輸出的文件
+artifacts/
+cache/
+typechain/
+build/
+
+# 忽略環境變數文件（如果有使用 .env）
+.env
+
+# 忽略 Remix 的自動保存文件
+remix-ide-workspace/
+
+# 忽略 macOS 產生的系統文件
+.DS_Store
