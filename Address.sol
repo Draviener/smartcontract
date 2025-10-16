@@ -4,4 +4,4 @@ contract MyAddress{
     address public myContractAddress = address(this);
     uint256 public balanceOfMyContract = myContractAddress.balance;
 
-} 
+}   
