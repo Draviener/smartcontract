@@ -5,3 +5,6 @@ contract MyAddress{
     uint256 public balanceOfMyContract = myContractAddress.balance;
 
 }   
+contract Myad {
+    
+}
