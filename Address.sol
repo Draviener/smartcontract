@@ -7,4 +7,4 @@ contract MyAddress{
 }   
 contract Myad {
       
-}
+} 
